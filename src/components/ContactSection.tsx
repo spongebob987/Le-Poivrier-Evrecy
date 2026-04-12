@@ -49,7 +49,7 @@ const ContactSection = () => {
 
           <div className="rounded-lg overflow-hidden border border-border min-h-[320px]">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2614.5!2d-0.5!3d49.1!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x480a43e9ed3c7c3f%3A0x4089f0be5c2f0a0!2s12%20Pl.%20du%20G%C3%A9n%C3%A9ral%20de%20Gaulle%2C%2014210%20%C3%89vrecy!5e0!3m2!1sfr!2sfr!4v1700000000000!5m2!1sfr!2sfr"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1307.2!2d-0.5003!3d49.1003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x480a43e9ed3c7c3f%3A0x8e2c5f3b1a0d4e7f!2sLe%20Poivrier!5e0!3m2!1sfr!2sfr!4v1700000000000!5m2!1sfr!2sfr"
               width="100%"
               height="100%"
               style={{ border: 0, minHeight: "320px" }}
